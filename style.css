@@ -32,6 +32,8 @@ body{
     border: 1px solid #ffd7b6 ;
     justify-content: space-between;
     border-radius: 25px;
+    width:auto;
+    padding:10px;
     height: 150px;
 }
 
@@ -39,7 +41,7 @@ body{
     display: flex;
     align-items: center;
     font-weight: bold;
-    font-size: 19px;
+    font-size: 16px;
 }
 
 .marketing-lists p{
